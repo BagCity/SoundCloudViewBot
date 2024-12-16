@@ -41,7 +41,7 @@ A Chrome window should open with your song. Click full screen if desired. The so
 ## Tips
 - Mute your computer volume so the sound isn’t disruptive.
 - Run the program at times you don’t need your computer, like overnight.
-- I would recommend to run a few plays at a time and not going all out at once (Ex. 500 plays at once)
+- I would recommend to run a few plays at a time and not going all out at once (Ex. Don't do 500 plays at once)
 
 ## Stopping the Program
 To stop the program before it finishes playing all the streams:
