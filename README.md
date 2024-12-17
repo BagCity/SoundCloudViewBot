@@ -1,4 +1,4 @@
-# SoundCloud View Bot
+# SoundCloud View Bot (Windows)
 
 This repository contains a simple Java program that automates streaming a SoundCloud track in order to increase its play count.
 
